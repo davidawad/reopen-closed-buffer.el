@@ -1,0 +1,2 @@
+(reopen-closed-buffer :fetcher github :repo "davidawad/reopen-closed-buffer.el"
+                      :files ("reopen-closed-buffer*.el"))
